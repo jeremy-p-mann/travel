@@ -1,9 +1,9 @@
 ================
-Long Term Travel
+Daily
 ================
 
 .. toctree::
    :caption: Contents:
    :maxdepth: 2
 
-   primary_possessions
+   everyday_carry

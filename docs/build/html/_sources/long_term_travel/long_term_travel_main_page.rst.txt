@@ -6,4 +6,4 @@ Long Term Travel
    :caption: Contents:
    :maxdepth: 2
 
-   
+   primary_possessions
